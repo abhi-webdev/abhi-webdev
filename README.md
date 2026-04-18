@@ -1,5 +1,5 @@
 YOUR_USERNAME → abhi-webdev
-<h1 align="center">Hi 👋, I'm Abhimanyu Prajapati</h1>
+<h1 align="center">Hi 👋, I'm Abhimanyu Kumar</h1>
 <h3 align="center">🚀 Aspiring Full Stack Developer | DSA Learner | JavaScript Enthusiast</h3>
 
 ---
