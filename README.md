@@ -57,8 +57,8 @@ YOUR_USERNAME → abhi-webdev
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: (Add your link)
-- 📧 Email: (Add your email)
+- 💼 LinkedIn: linkedin.com/in/abhimanyukumar43/
+- 📧 Email: abhimanyuakpakj1430@gmail.com
 
 ---
 
